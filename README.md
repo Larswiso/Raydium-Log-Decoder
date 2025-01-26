@@ -21,7 +21,6 @@ A Python project for parsing and decoding Base64-encoded log data encoded with s
 
 1. clone the repository:
    ```bash
-   git clone https://github.com/dein-username/logparser.git
+   git clone https://github.com/Larswiso/Raydium-Log-Decoder.git
    cd logparser
 
-Translated with DeepL.com (free version)
